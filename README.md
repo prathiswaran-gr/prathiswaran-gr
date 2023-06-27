@@ -7,7 +7,7 @@
   width="400"
 />
 
-- 🌱 I’m currently learning **AWS Services , Flutter , Data Structures and
+- 🌱 I’m currently learning **Flutter , Data Structures and
 Algorithms , HTML , CSS** - 📫 How to reach me **prathis2003@gmail.com** - ⚡
 Fun fact **Friendly type**
 
