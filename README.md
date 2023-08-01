@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Prathiswaran<br>🌱 I’m currently learning Data Structures and Algorithms<br>📫 How to reach me prathis2003@gmail.com<br><br>•‌ Passionate in Computer Science.<br>• Good in Java.<br>•‌ Interests in problem solving <\>.<br>• Love to build Native Mobile apps and Web apps.<br>•‌ Interested to learn new techies.
+Hi 👋, I'm Prathiswaran<br>🌱 I’m currently Web development front-end<br>📫 How to reach me prathis2003@gmail.com<br><br>•‌ Passionate in Computer Science.<br>• Good in Java.<br>•‌ Interests in problem solving <\>.<br>• Love to build Native Mobile apps and Web apps.<br>•‌ Interested to learn new techies.
 
 
 ## 🌐 Socials:
