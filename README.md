@@ -33,7 +33,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-prathiswaran--gr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathiswaran-gr)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-prathiswaran-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/prathiswaran/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
-[![Email](https://img.shields.io/badge/Email-prathiswaran.gr%40zohocorp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathiswaran.gr@zohocorp.com)
+[![Email](https://img.shields.io/badge/Email-prathis2003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathis2003@gmail.com)
 
 <br>
 
