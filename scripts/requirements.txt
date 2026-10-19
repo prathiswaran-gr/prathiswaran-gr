@@ -1,0 +1,9 @@
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+
+# Portrait-only dependencies (run locally to generate ASCII portrait):
+# pillow
+# numpy
+# opencv-python
+# rembg
+# onnxruntime
