@@ -1,22 +1,22 @@
 {
   "username": "prathiswaran-gr",
-  "generated_at": "2026-10-25T11:23:51Z",
+  "generated_at": "2026-10-26T12:58:14Z",
   "range": {
     "start": "2025-10-26",
+    "end": "2026-10-26"
+  },
+  "total_contributions": 46,
+  "active_days": 19,
+  "avg_per_active_day": 2.4,
+  "current_streak": {
+    "length": 8,
+    "start": "2026-10-18",
     "end": "2026-10-25"
   },
-  "total_contributions": 45,
-  "active_days": 18,
-  "avg_per_active_day": 2.5,
-  "current_streak": {
-    "length": 7,
-    "start": "2026-10-18",
-    "end": "2026-10-24"
-  },
   "longest_streak": {
-    "length": 7,
-    "start": "2026-10-01",
-    "end": "2026-10-07"
+    "length": 8,
+    "start": "2026-10-18",
+    "end": "2026-10-25"
   },
   "best_day": {
     "date": "2026-10-13",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 45
+      "total": 46
     }
   ],
   "days": [
@@ -1899,6 +1899,11 @@
     },
     {
       "date": "2026-10-25",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-26",
       "count": 0,
       "level": 0
     }
